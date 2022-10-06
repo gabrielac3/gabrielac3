@@ -1,4 +1,4 @@
-<h2> Hi there 👋 I'm Gabriela, welcome to my Github!<img src="https://media2.giphy.com/media/x9lORDo2dexxHnrBqo/giphy.gif" width="50"></h2>
+<h2> Hi there 👋 I'm Gabriela, welcome to my Github!<img src="https://media3.giphy.com/media/gUkHVGopilyTxG8iex/giphy.gif" width="50"></h2>
 
 <img align='center' src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611845e93444c1c5b60e954aa80cdfbb4702585523c&rid=giphy.gif&ct=g" width="230">
 
