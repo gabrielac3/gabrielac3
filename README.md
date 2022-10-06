@@ -2,6 +2,7 @@
 
 <img align='center' src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611845e93444c1c5b60e954aa80cdfbb4702585523c&rid=giphy.gif&ct=g" width="230">
 
+```js
 const gabrielac3 = {
    code: ['Javascript', 'HTML', 'CSS'],
    technologies: {
@@ -18,6 +19,8 @@ const gabrielac3 = {
    currentOccupation: ['Laboratoria student, open for job opportunities'],
    quote: 'If you can imagine, it can be programmed.',
 };
+
+```
 
 <!--
 **gabrielac3/gabrielac3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
