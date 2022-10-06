@@ -1,5 +1,7 @@
 <h2> Hi there 👋, I'm Gabriela! welcome to my Github!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<img center='right' src="https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy" width="230">
+
 <!--
 **gabrielac3/gabrielac3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
